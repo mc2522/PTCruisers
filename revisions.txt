@@ -1,0 +1,77 @@
+commit 4705c971cbd8aa84780d581efddd45415010fef4
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 16:52:47 2019 -0400
+
+    actual final commit, fixed syntax where car wouldn't get a flat tire.
+
+commit 7bbd3c66e0080af0b0ade789d72182485a484ea7
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 16:49:19 2019 -0400
+
+    final commit
+
+commit 4d46ae90be08620228db1af54445e965d029fb1b
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 16:20:20 2019 -0400
+
+    almost complete need to check if everything is correct
+
+commit 19d970dbe651aff675ecdcaf6535ca4a3775298b
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 12:22:34 2019 -0400
+
+    car isn't in correct row
+
+commit 5b46994ad49e6adf560f170cabf4a6f35c4d9339
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 01:53:29 2019 -0400
+
+    formatting incorrect need to fix.
+
+commit 506b6d6644b5fdea002112755ed029cfd82a29d5
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 01:44:02 2019 -0400
+
+    thread creation
+
+commit 03d0d16d64a90af0c4043e9da882c358a6025ff9
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 01:30:08 2019 -0400
+
+    completed checking arguments
+
+commit 3eb1472e071419f5d0bc8454b3d4e9c177286758
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 01:22:51 2019 -0400
+
+    finished checking for number in pt-cruiser
+
+commit fe79be2d2170bbdea7e3acb6fed5912db272887b
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Apr 24 00:50:02 2019 -0400
+
+    started pt-cruisers
+
+commit 4fd7b5be7369495f8cf6fdac555fe33bb97ceb66
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Apr 23 03:00:12 2019 -0400
+
+    racer.c finished 3 functions.
+
+commit 14e50b44a0108a39412d0a24959d9fd367b4ca30
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Apr 23 02:40:05 2019 -0400
+
+    racer.c progress
+
+commit 031176b938e212b3ea1ca4a992127384057d4267
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Apr 23 01:58:51 2019 -0400
+
+    racer.c is partially complete.
+
+commit 668db8a958cef570ed04ed7bd2d22b07ff534904
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Apr 23 01:00:50 2019 -0400
+
+    Initial Commit
